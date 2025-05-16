@@ -43,12 +43,7 @@ console.log(session);
                                 Login
                             </button>
                         </form>
-                         {/* <button onClick={async () => {await signIn('github')}}>
-                            <span>Login</span>
-                         </button> */}
-                        {/* <div>
-                            not logged in
-                        </div> */}
+                         
                     </>
                     
                 )}
